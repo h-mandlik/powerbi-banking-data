@@ -41,12 +41,12 @@ This project showcases an end-to-end workflow of creating a banking analytics da
 ## 🖼️ Dashboard Previews
 
 ### 🔹 Page 1: Overview & Key Metrics
-![Banking Data Dashboard 1](./image1.png)
+![Banking Data Dashboard 1](./images/image1.png)
 
 ---
 
 ### 🔹 Page 2: Customer & Account Insights
-![Banking Data Dashboard 2](./image2.png)
+![Banking Data Dashboard 2](./images/image2.png)
 
 ---
 
