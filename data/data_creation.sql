@@ -1,9 +1,9 @@
 -- Create the database
-CREATE DATABASE Power_BI2;
+CREATE DATABASE Power_BI;
 GO
 
 -- Use the new database
-USE Power_BI2;
+USE Power_BI;
 GO
 
 -- Drop tables if they exist (in FK-safe order)
